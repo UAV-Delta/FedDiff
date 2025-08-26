@@ -2,4 +2,4 @@
 A pytorch implementation for the paper: Federated Conditional Latent Diffusion for Heterogeneous Cross-city Demand Prediction.
 
 # Notes: 
-Our battery swap datasets from ten Chinese cities are now available. The FedDiff code is being organized and will be released within three weeks.
+The battery swap datasets and the corresponding Urban Knowledge Graph (UKG) from ten Chinese cities have been made available. The FedDiff code is under organization and will be released within three weeks.
