@@ -16,3 +16,8 @@ server; and (3) model convergence and demand prediction.
 <img src="https://github.com/UAV-Delta/FedDiff/blob/main/img/Framework.jpg" width="800" />
 
 It consists of two phases: (1) the forward diffusion phase taking the latent representations extracted by the missingness-tolerant masked autoencoder as input; and (2) the reverse denoising phase conditioned on a UKG-based urban environment characterization.
+
+# Installation
+### Environment
+
+### Dependencies
