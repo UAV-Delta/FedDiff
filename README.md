@@ -19,9 +19,9 @@ It consists of two phases: (1) the forward diffusion phase taking the latent rep
 
 # Installation
 ### Environment
-Tested OS: Windows
-Python >= 3.8
-torch == 2.0.0
+1. Tested OS: Windows 11.
+2. Python >= 3.9.
+3. torch == 2.0.0.
 
 ### Dependencies
 1. Install Pytorch with the correct CUDA version.
